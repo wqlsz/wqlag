@@ -1,0 +1,7 @@
+1-Lagı 7-8 saniyeden fazla tutmayın oyundan düşebilirsiniz
+
+2-f tuşu ile açıp kapatabilirsiniz
+
+3-report yemediğiniz ve lagı çok uzatmadığınız sürece ban yemezsiniz
+
+4-hareket ederken f tuşuna basarsanız açılmayacaktır elinizi tüm tuşlardan çekip  f tuşuna basın bir sonraki sürümde fixlenecektir
