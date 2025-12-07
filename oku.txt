@@ -2,6 +2,7 @@
 
 2-f tuşu ile açıp kapatabilirsiniz
 
-3-report yemediğiniz ve lagı çok uzatmadığınız sürece ban yemezsiniz
+3-report/rec alınmadığınız ve lagı çok uzatmadığınız sürece ban yemezsiniz
+
 
 
